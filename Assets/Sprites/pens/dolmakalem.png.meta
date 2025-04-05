@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dolmakalem_0: -2720919721792848118
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
