@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 765776c1ef0f84a4e8a8b9c47cc97628
+guid: 3cf44651a4ad31e4b86383b71b6f8b8a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7362152648784098523
-    second: cactus_pencil_0
+      213: 1134369721783861970
+    second: cactus_Normall 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
-    sRGBTexture: 1
+    enableMipMap: 1
+    sRGBTexture: 0
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -51,13 +51,13 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 1
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cactus_pencil_0
+      name: cactus_Normall 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -134,15 +134,15 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 52bc50b1c2164d990800000000000000
-      internalID: -7362152648784098523
+      spriteID: 2d2c2e670471ebf00800000000000000
+      internalID: 1134369721783861970
       vertices: []
       indices: 
       edges: []
@@ -151,19 +151,16 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 78cc31dbda0aeff4b8773b13fd4ea4ea
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures:
-    - texture: {fileID: 2800000, guid: 3cf44651a4ad31e4b86383b71b6f8b8a, type: 3}
-      name: _NormalMap
+    secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      cactus_pencil_0: -7362152648784098523
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
