@@ -81,6 +81,19 @@ public class PlayerControllerwithRaycast : MonoBehaviour
     {
         velocity.x = Input.GetAxisRaw("Horizontal") * moveSpeed;
         
+        // Set animator Walk parameter based on movement
+        Animator animator = GetComponent<Animator>();
+        if (animator != null)
+        {
+            animator.SetBool("Walk", Mathf.Abs(velocity.x) > 0.1f);
+        }
+        
+        // Flip the character based on movement direction using rotation
+        if (velocity.x != 0)
+        {
+            transform.rotation = Quaternion.Euler(0, velocity.x > 0 ? 0 : 180, 0);
+        }
+        
         if(Input.GetButtonDown("Jump"))
         {
             lastJumpPressedTime = Time.time;

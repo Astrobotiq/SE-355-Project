@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bd94fdf93f006a44f888741ca4753b9d
+guid: 6be5dc6eef66b624d929eff96133581d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1365090621574922557
-    second: "kurs\u0327un_0"
+      213: -9107680041286064211
+    second: "kur\u015Fun_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "kurs\u0327un_0"
+      name: "kur\u015Fun_0"
       rect:
         serializedVersion: 2
         x: 11
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ce3fceef493e0de0800000000000000
-      internalID: -1365090621574922557
+      spriteID: da7aa3bc1450b9180800000000000000
+      internalID: -9107680041286064211
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "kurs\u0327un_0": -1365090621574922557
+      "kur\u015Fun_0": -9107680041286064211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
