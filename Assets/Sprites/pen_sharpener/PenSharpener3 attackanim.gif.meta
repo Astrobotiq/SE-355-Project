@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PenSharpener3 attackanim_0: 9152158982045777751
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

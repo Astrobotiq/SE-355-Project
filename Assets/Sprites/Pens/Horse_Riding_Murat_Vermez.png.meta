@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Horse_Riding_Murat_Vermez_0: -4485055803934242243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

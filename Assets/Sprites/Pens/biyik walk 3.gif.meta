@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      biyik walk 3_0: 8329312644665614213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

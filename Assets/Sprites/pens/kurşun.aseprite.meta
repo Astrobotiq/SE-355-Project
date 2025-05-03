@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a2f980517b60f004da3059920260aeaf
+guid: cca7d257c0ebf8946bc9b7e152ad4abf
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -152,7 +153,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: "kur\u015Fun"
+    - name: "kurs\u0327un"
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -180,3 +181,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 32, y: 32}
+  previousTextureSize: {x: 32, y: 64}

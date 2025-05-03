@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "walk kakt\xFCs 3 _0": 227180289479517580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
