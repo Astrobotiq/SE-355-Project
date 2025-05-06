@@ -5,7 +5,7 @@ public class EnemyManager : MonoBehaviour
 {
     public List<BaseEnemy> enemies = new List<BaseEnemy>();
 
-    void FixedUpdate()
+    void Update()
     {
         foreach (var enemy in enemies)
         {

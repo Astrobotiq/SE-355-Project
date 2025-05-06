@@ -13,8 +13,13 @@ public class Bullet : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            // Hasar ver veya başka bir şey yap
+            // Oyuncuya hasar ver veya başka bir işlem yap
+            Destroy(gameObject);
+        }
+        else if (other.gameObject.layer == LayerMask.NameToLayer("Ground"))
+        {
             Destroy(gameObject);
         }
     }
+
 }

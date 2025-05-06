@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayerLayer:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 0
   SnapInput: 1
   VerticalDeadZoneThreshold: 0.1
   HorizontalDeadZoneThreshold: 0.1
