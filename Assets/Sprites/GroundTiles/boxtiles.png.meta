@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2ee7ad2738bd8a04190586ea48e88dc9
+guid: 1bccb3476c257434c82583cfc7a04b92
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -109,19 +109,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -347,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      boxtiles_0: 310515401472245261
+      boxtiles_1: -1247295466101838136
+      boxtiles_2: -2205546804992071023
+      boxtiles_3: 8910152312030872927
+      boxtiles_4: -2951953339686346189
+      boxtiles_5: -8163933581577169516
+      boxtiles_6: 6051610783652635602
+      boxtiles_7: -4112664061822873856
+      boxtiles_8: -7979725870607277145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

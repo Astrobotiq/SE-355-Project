@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9e7b515961f8b8949929f585cacfafb7
+guid: e2391c41a3ea9894ebd355b8a6fa00e9
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      parallaxdesert-Sheet_0: 6445807319045421559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

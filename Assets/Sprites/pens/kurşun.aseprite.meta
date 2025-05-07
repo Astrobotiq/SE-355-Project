@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f1aac8c3932480645b6c533af6d0c926
+guid: cca7d257c0ebf8946bc9b7e152ad4abf
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -122,7 +123,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: "kur\u015Fun"
+  - name: "kurs\u0327un"
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -134,7 +135,7 @@ ScriptedImporter:
       y: 4
       width: 8
       height: 32
-    spriteID: b15465760f0ba924cb6cec5de529cb6d
+    spriteID: f298f525b3da9dc449705b6567fe310d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,8 +147,8 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1694251630
-    name: "kur\u015Fun"
+    guid: -218387357
+    name: "kurs\u0327un"
     layerFlags: 0
     layerType: 0
     blendMode: 0
@@ -160,7 +161,7 @@ ScriptedImporter:
         y: 0
         width: 8
         height: 32
-      spriteId: b15465760f0ba924cb6cec5de529cb6d
+      spriteId: f298f525b3da9dc449705b6567fe310d
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -180,3 +181,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 32, y: 32}
+  previousTextureSize: {x: 32, y: 64}

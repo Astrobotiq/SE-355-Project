@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 212d633a5f32c334c9a78a9f0a3f27e6
+guid: 23d15bad590f4124bac3b27a7c87b6ab
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -134,7 +135,7 @@ ScriptedImporter:
       y: 4
       width: 6240
       height: 9984
-    spriteID: 5bb9aadd49a17cb46982b9d7b9971504
+    spriteID: 42872a8259667d040a9099d197a29c4f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,7 +147,7 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -2064760356
+    guid: -373031860
     name: kovboy
     layerFlags: 0
     layerType: 0
@@ -160,7 +161,7 @@ ScriptedImporter:
         y: 0
         width: 9984
         height: 9984
-      spriteId: 5bb9aadd49a17cb46982b9d7b9971504
+      spriteId: 42872a8259667d040a9099d197a29c4f
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -180,3 +181,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 9984, y: 9984}
+  previousTextureSize: {x: 8192, y: 16384}

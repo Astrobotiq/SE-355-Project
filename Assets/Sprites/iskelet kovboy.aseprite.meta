@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c69cf7ae9d3182644ae63819d7edb281
+guid: d753eb748aaebd54c9cfab52c7c1c88d
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -134,7 +135,7 @@ ScriptedImporter:
       y: 4
       width: 1600
       height: 1600
-    spriteID: dbf2762b5c96b814d874b69e3869cae2
+    spriteID: 7de419177486d3f458e581c28e8b2090
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,7 +147,7 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 148445355
+    guid: -508098281
     name: iskelet kovboy
     layerFlags: 0
     layerType: 0
@@ -160,7 +161,7 @@ ScriptedImporter:
         y: 0
         width: 1600
         height: 1600
-      spriteId: dbf2762b5c96b814d874b69e3869cae2
+      spriteId: 7de419177486d3f458e581c28e8b2090
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -180,3 +181,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 1600, y: 1600}
+  previousTextureSize: {x: 2048, y: 2048}

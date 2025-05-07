@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2470ae3e08256f243ac6f41ba747e9be
+guid: 6e5cc58aae145bc4f9f25242856cf65b
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -134,7 +135,7 @@ ScriptedImporter:
       y: 4
       width: 320
       height: 180
-    spriteID: dc30fa3c7ea71104a9de3c6fe4ef9c2b
+    spriteID: 346058525a038de4c9a1d86359c7fed7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,7 +147,7 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1455119602
+    guid: 1813852358
     name: Western_Parallax
     layerFlags: 0
     layerType: 0
@@ -160,7 +161,7 @@ ScriptedImporter:
         y: 0
         width: 320
         height: 180
-      spriteId: dc30fa3c7ea71104a9de3c6fe4ef9c2b
+      spriteId: 346058525a038de4c9a1d86359c7fed7
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -180,3 +181,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 320, y: 180}
+  previousTextureSize: {x: 512, y: 256}

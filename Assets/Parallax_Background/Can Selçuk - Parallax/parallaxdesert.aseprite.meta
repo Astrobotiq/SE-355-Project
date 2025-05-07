@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 24fa7fe746da26349b526c27b6735359
+guid: d21b5275b92e1554eb6ea4b038a07402
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -134,7 +135,7 @@ ScriptedImporter:
       y: 4
       width: 320
       height: 180
-    spriteID: 2739285ab12c5244c9476c664a680b58
+    spriteID: a8d8351a49b642f4f8bbdc35826327a5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,7 +147,7 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1668393000
+    guid: 1334885064
     name: parallaxdesert
     layerFlags: 0
     layerType: 0
@@ -160,7 +161,7 @@ ScriptedImporter:
         y: 0
         width: 320
         height: 180
-      spriteId: 2739285ab12c5244c9476c664a680b58
+      spriteId: a8d8351a49b642f4f8bbdc35826327a5
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -180,3 +181,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 320, y: 180}
+  previousTextureSize: {x: 512, y: 256}

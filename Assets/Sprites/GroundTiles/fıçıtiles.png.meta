@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 87af7098ee2c890449e894808339c5b1
+guid: 5a514a2d38be495469fd15e210e2ea71
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -109,19 +109,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -347,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "f\u0131c\u0327\u0131tiles_0": 2401485111390662620
+      "f\u0131c\u0327\u0131tiles_1": -5329070559433573488
+      "f\u0131c\u0327\u0131tiles_2": -6422595609076784203
+      "f\u0131c\u0327\u0131tiles_3": -4494082750323960481
+      "f\u0131c\u0327\u0131tiles_4": -4626505030100704706
+      "f\u0131c\u0327\u0131tiles_5": 6246565203361980311
+      "f\u0131c\u0327\u0131tiles_6": 4744727775898213119
+      "f\u0131c\u0327\u0131tiles_7": 3149365062020523043
+      "f\u0131c\u0327\u0131tiles_8": -2647482366967558455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

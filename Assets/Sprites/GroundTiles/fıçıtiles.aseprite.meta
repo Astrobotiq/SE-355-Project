@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8f78adb20b8b9d74ebfb361865391b59
+guid: 3ee75d3dea823204a89617e3a235bd41
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -134,7 +135,7 @@ ScriptedImporter:
       y: 4
       width: 50
       height: 50
-    spriteID: b410ade882f3e6849a8aa4101a82a521
+    spriteID: 24fb17f8cd52a1a4e9a969c9134dcbe0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,7 +147,7 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1116878833
+    guid: 522104053
     name: "f\u0131c\u0327\u0131tiles"
     layerFlags: 0
     layerType: 0
@@ -160,7 +161,7 @@ ScriptedImporter:
         y: 0
         width: 50
         height: 50
-      spriteId: b410ade882f3e6849a8aa4101a82a521
+      spriteId: 24fb17f8cd52a1a4e9a969c9134dcbe0
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -180,3 +181,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 50, y: 50}
+  previousTextureSize: {x: 64, y: 64}

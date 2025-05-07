@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0179d014602c95e44920b0af5a32511e
+guid: 5d65c7c65ef77154da93383af8c07d7f
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -134,7 +135,7 @@ ScriptedImporter:
       y: 4
       width: 50
       height: 50
-    spriteID: 246622fa134f32945be3a13850e665fa
+    spriteID: 37dc38676796e4e46bf17c0dae08db4f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,7 +147,7 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 887855960
+    guid: 1365374648
     name: boxtiles
     layerFlags: 0
     layerType: 0
@@ -160,7 +161,7 @@ ScriptedImporter:
         y: 0
         width: 50
         height: 50
-      spriteId: 246622fa134f32945be3a13850e665fa
+      spriteId: 37dc38676796e4e46bf17c0dae08db4f
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -180,3 +181,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 50, y: 50}
+  previousTextureSize: {x: 64, y: 64}
