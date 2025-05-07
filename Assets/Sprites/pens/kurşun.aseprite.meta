@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a2f980517b60f004da3059920260aeaf
+guid: f1aac8c3932480645b6c533af6d0c926
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -152,7 +152,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: "kur\u015Fun"
+    - name: "kurs\u0327un"
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
