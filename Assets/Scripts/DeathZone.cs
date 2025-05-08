@@ -4,7 +4,8 @@ using UnityEngine.UI;
 public class DeathZone : MonoBehaviour
 {
     public GameObject deathEffectPrefab;
-    public GameObject gameOverText;        
+    public GameObject gameOverText;
+    public GameObject retryButton;
     public Canvas canvas;
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -26,6 +27,7 @@ public class DeathZone : MonoBehaviour
                 textRect.anchoredPosition = canvasPos + new Vector2(70f, 100f); 
 
                 gameOverText.SetActive(true);
+                retryButton.SetActive(true);
             }
 
             if (deathEffectPrefab != null)

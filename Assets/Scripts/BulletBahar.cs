@@ -1,6 +1,6 @@
-﻿using UnityEngine;
+using UnityEngine;
 
-public class Bulletbahar : MonoBehaviour
+public class BulletBahar : MonoBehaviour
 {
     public float lifetime = 5f;
 
@@ -14,8 +14,8 @@ public class Bulletbahar : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-           
-            Hp hp = other.GetComponent<Hp>();
+
+            HpBahar hp = other.GetComponent<HpBahar>();
             if (hp != null)
             {
                 hp.StartCoroutine(hp.takeDamage());
