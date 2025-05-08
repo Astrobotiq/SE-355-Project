@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a689043348c182b45a1ec1f4c42c9355
+guid: 1777dd5032ffcfc45a628d5e199f9f6a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6445807319045421559
-    second: parallaxdesert-Sheet_0
+      213: -3187086604067581641
+    second: Horse_Riding_Run_Berk_Guzel_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: parallaxdesert-Sheet_0
+      name: Horse_Riding_Run_Berk_Guzel_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 320
-        height: 44
+        width: 31
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f9b056fa9b147950800000000000000
-      internalID: 6445807319045421559
+      spriteID: 73155289e9135c3d0800000000000000
+      internalID: -3187086604067581641
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      parallaxdesert-Sheet_0: 6445807319045421559
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
